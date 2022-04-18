@@ -185,7 +185,7 @@ Answer: It elimiates some of the outliers, allowing the data to be cleaned up an
 
 # Contributors
 
-Sean Harrington - Linkedin: www.linkedin.com/in/sean-harrington16
+Sean Harrington: www.linkedin.com/in/sean-harrington16
 
 # License
 
