@@ -182,3 +182,11 @@ Rewind: Back in Lesson 3 of Module 6, you learned how to create composite plots.
 Answer the following question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
 Answer: It elimiates some of the outliers, allowing the data to be cleaned up and present a more accurate depiction of the cluster.
+
+# Contributors
+
+Sean Harrington - Linkedin: www.linkedin.com/in/sean-harrington16
+
+# License
+
+# Open Sourced
